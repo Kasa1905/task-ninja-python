@@ -6,7 +6,7 @@
 
 Welcome to the **Python Projects Series** — a comprehensive, step-by-step journey designed for beginners to those preparing for technical interviews or building real-world projects.
 
-## 🎯 What You'll Learn
+## 🎯 What We'll Learn
 
 This series provides hands-on experience with useful Python projects, complete with clear code, explanations, and mini-quizzes to test your understanding.
 
@@ -40,7 +40,7 @@ Automate your daily tasks:
 | Project | Status | Difficulty | Key Concepts |
 |---------|--------|------------|--------------|
 | [File Organizer](week-3/11-file-organizer/) | 📋 Planned | Intermediate | File system, automation |
-| [Email Sender](week-3/12-email-sender/) | � Planned | Intermediate | SMTP, email handling |
+| [Email Sender](week-3/12-email-sender/) | 📋 Planned | Intermediate | SMTP, email handling |
 | [WhatsApp Automation](week-3/13-whatsapp-automation/) | 📋 Planned | Advanced | Web automation, APIs |
 | [PDF Merger](week-3/14-pdf-merger/) | 📋 Planned | Intermediate | PDF manipulation |
 | [Excel Report Generator](week-3/15-excel-report/) | 📋 Planned | Intermediate | Data analysis, reporting |
@@ -157,12 +157,4 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-### 💬 Questions or Issues?
-
-**Let's Build. Let's Grow.** 💻🙌
-
----
-
-*Made with ❤️ for the Python community*
