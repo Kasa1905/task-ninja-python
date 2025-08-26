@@ -28,19 +28,19 @@ Master data manipulation and external service integration:
 
 | Project | Status | Difficulty | Key Concepts |
 |---------|--------|------------|--------------|
-| [CSV & Excel Handler](week-2/06-csv-excel-handler/) | ✅ Complete | Intermediate | pandas, openpyxl |
-| [JSON Parser](week-2/07-json-parser/) | ✅ Complete | Intermediate | JSON, data structures |
-| [API Calls with Requests](week-2/08-api-calls/) | ✅ Complete | Intermediate | HTTP, requests library |
-| [Weather App](week-2/09-weather-app/) | ✅ Complete | Intermediate | APIs, data parsing |
-| [Currency Converter](week-2/10-currency-converter/) | ✅ Complete | Intermediate | Real-time APIs, rates |
+| [CSV & Excel Handler](week-2/06-csv-excel-handler/) | 🗓️ Next Week | Intermediate | pandas, openpyxl |
+| [JSON Parser](week-2/07-json-parser/) | 🗓️ Next Week | Intermediate | JSON, data structures |
+| [API Calls with Requests](week-2/08-api-calls/) | 🗓️ Next Week | Intermediate | HTTP, requests library |
+| [Weather App](week-2/09-weather-app/) | 🗓️ Next Week | Intermediate | APIs, data parsing |
+| [Currency Converter](week-2/10-currency-converter/) | 🗓️ Next Week | Intermediate | Real-time APIs, rates |
 
 ### 🔹 Week 3: Automation with Python
 Automate your daily tasks:
 
 | Project | Status | Difficulty | Key Concepts |
 |---------|--------|------------|--------------|
-| [File Organizer](week-3/11-file-organizer/) | ✅ Complete | Intermediate | File system, automation |
-| [Email Sender](week-3/12-email-sender/) | 🚧 In Progress | Intermediate | SMTP, email handling |
+| [File Organizer](week-3/11-file-organizer/) | 📋 Planned | Intermediate | File system, automation |
+| [Email Sender](week-3/12-email-sender/) | � Planned | Intermediate | SMTP, email handling |
 | [WhatsApp Automation](week-3/13-whatsapp-automation/) | 📋 Planned | Advanced | Web automation, APIs |
 | [PDF Merger](week-3/14-pdf-merger/) | 📋 Planned | Intermediate | PDF manipulation |
 | [Excel Report Generator](week-3/15-excel-report/) | 📋 Planned | Intermediate | Data analysis, reporting |
