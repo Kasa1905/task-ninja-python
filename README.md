@@ -41,18 +41,18 @@ Automate your daily tasks:
 |---------|--------|------------|--------------|
 | [File Organizer](week-3/11-file-organizer/) | 📋 Planned | Intermediate | File system, automation |
 | [Email Sender](week-3/12-email-sender/) | 📋 Planned | Intermediate | SMTP, email handling |
-| [WhatsApp Automation](week-3/13-whatsapp-automation/) | ✅ Complete | Advanced | Web automation, APIs |
-| [PDF Merger](week-3/14-pdf-merger/) | ✅ Complete | Intermediate | PDF manipulation |
-| [Excel Report Generator](week-3/15-excel-report-generator/) | ✅ Complete | Intermediate | Data analysis, reporting |
+| [WhatsApp Automation](week-3/13-whatsapp-automation/) | 📋 Planned | Advanced | Web automation, APIs |
+| [PDF Merger](week-3/14-pdf-merger/) | 📋 Planned | Intermediate | PDF manipulation |
+| [Excel Report Generator](week-3/15-excel-report-generator/) | 📋 Planned | Intermediate | Data analysis, reporting |
 
 ### 🔹 Week 4: Data Analysis with Pandas & Matplotlib
 Dive into data science fundamentals:
 
 | Project | Status | Difficulty | Key Concepts |
 |---------|--------|------------|--------------|
-| [Load & Clean CSV Data](week-4/16-load-clean-csv-data/) | ✅ Complete | Intermediate | pandas, data cleaning |
-| [Data Aggregation Tool](week-4/17-data-aggregation/) | ✅ Complete | Intermediate | GroupBy, statistics |
-| [Data Visualization](week-4/18-data-visualization/) | ✅ Complete | Intermediate | matplotlib, seaborn |
+| [Load & Clean CSV Data](week-4/16-load-clean-csv-data/) | 📋 Planned | Intermediate | pandas, data cleaning |
+| [Data Aggregation Tool](week-4/17-data-aggregation/) | 📋 Planned | Intermediate | GroupBy, statistics |
+| [Data Visualization](week-4/18-data-visualization/) | 📋 Planned | Intermediate | matplotlib, seaborn |
 | [Trend Analysis](week-4/19-trend-analysis/) | 📋 Planned | Advanced | Time series, analysis |
 | [Dashboard Basics](week-4/20-dashboard/) | 📋 Planned | Advanced | Streamlit, interactive plots |
 
