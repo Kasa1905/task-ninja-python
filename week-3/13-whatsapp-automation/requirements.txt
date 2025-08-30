@@ -1,0 +1,5 @@
+pywhatkit>=5.4
+opencv-python>=4.8.0
+Pillow>=10.0.0
+pandas>=1.5.0
+schedule>=1.2.0

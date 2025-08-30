@@ -28,11 +28,11 @@ Master data manipulation and external service integration:
 
 | Project | Status | Difficulty | Key Concepts |
 |---------|--------|------------|--------------|
-| [CSV & Excel Handler](week-2/06-csv-excel-handler/) | 🗓️ Next Week | Intermediate | pandas, openpyxl |
-| [JSON Parser](week-2/07-json-parser/) | 🗓️ Next Week | Intermediate | JSON, data structures |
-| [API Calls with Requests](week-2/08-api-calls/) | 🗓️ Next Week | Intermediate | HTTP, requests library |
-| [Weather App](week-2/09-weather-app/) | 🗓️ Next Week | Intermediate | APIs, data parsing |
-| [Currency Converter](week-2/10-currency-converter/) | 🗓️ Next Week | Intermediate | Real-time APIs, rates |
+| [CSV & Excel Handler](week-2/06-csv-excel-handler/) | ✅ Complete | Intermediate | pandas, openpyxl |
+| [JSON Parser](week-2/07-json-parser/) | ✅ Complete | Intermediate | JSON, data structures |
+| [API Calls with Requests](week-2/08-api-calls/) | ✅ Complete | Intermediate | HTTP, requests library |
+| [Weather App](week-2/09-weather-app/) | ✅ Complete | Intermediate | APIs, data parsing |
+| [Currency Converter](week-2/10-currency-converter/) | ✅ Complete | Intermediate | Real-time APIs, rates |
 
 ### 🔹 Week 3: Automation with Python
 Automate your daily tasks:
@@ -41,18 +41,18 @@ Automate your daily tasks:
 |---------|--------|------------|--------------|
 | [File Organizer](week-3/11-file-organizer/) | 📋 Planned | Intermediate | File system, automation |
 | [Email Sender](week-3/12-email-sender/) | 📋 Planned | Intermediate | SMTP, email handling |
-| [WhatsApp Automation](week-3/13-whatsapp-automation/) | 📋 Planned | Advanced | Web automation, APIs |
-| [PDF Merger](week-3/14-pdf-merger/) | 📋 Planned | Intermediate | PDF manipulation |
-| [Excel Report Generator](week-3/15-excel-report/) | 📋 Planned | Intermediate | Data analysis, reporting |
+| [WhatsApp Automation](week-3/13-whatsapp-automation/) | ✅ Complete | Advanced | Web automation, APIs |
+| [PDF Merger](week-3/14-pdf-merger/) | ✅ Complete | Intermediate | PDF manipulation |
+| [Excel Report Generator](week-3/15-excel-report-generator/) | ✅ Complete | Intermediate | Data analysis, reporting |
 
 ### 🔹 Week 4: Data Analysis with Pandas & Matplotlib
 Dive into data science fundamentals:
 
 | Project | Status | Difficulty | Key Concepts |
 |---------|--------|------------|--------------|
-| [CSV Data Cleaner](week-4/16-data-cleaner/) | 📋 Planned | Intermediate | pandas, data cleaning |
-| [Data Aggregation Tool](week-4/17-data-aggregation/) | 📋 Planned | Intermediate | GroupBy, statistics |
-| [Data Visualization](week-4/18-data-visualization/) | 📋 Planned | Intermediate | matplotlib, seaborn |
+| [Load & Clean CSV Data](week-4/16-load-clean-csv-data/) | ✅ Complete | Intermediate | pandas, data cleaning |
+| [Data Aggregation Tool](week-4/17-data-aggregation/) | ✅ Complete | Intermediate | GroupBy, statistics |
+| [Data Visualization](week-4/18-data-visualization/) | ✅ Complete | Intermediate | matplotlib, seaborn |
 | [Trend Analysis](week-4/19-trend-analysis/) | 📋 Planned | Advanced | Time series, analysis |
 | [Dashboard Basics](week-4/20-dashboard/) | 📋 Planned | Advanced | Streamlit, interactive plots |
 
